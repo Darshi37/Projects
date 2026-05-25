@@ -18,4 +18,5 @@ elif hours > 40:
     print("The total amount you get:", salary)
 
 print("You have worked hard")
+print("Have a good day!")
 
