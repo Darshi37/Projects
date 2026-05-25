@@ -4,7 +4,7 @@ for i in range(5):
     print(i)
     if i > 2:
         print("Bigger than two")
-print("Done with i")
+print("Done with printing i")
 
 #Example of nested blocks/ block inside a block.
 #Indentation decides which inside which block
