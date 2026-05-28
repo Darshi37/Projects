@@ -26,3 +26,4 @@ def computepay():
         return gross_pay
 salary = computepay()
 print("Your monthly total payment is:",salary)
+print("Thank you for the hard work!")
