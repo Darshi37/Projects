@@ -5,7 +5,7 @@ for i in range(5):
     if i > 2:
         print("Bigger than two")
 print("Done with printing i")
-print("This is the end of file")
+print("Bye Bye!")
 
 #Example of nested blocks/ block inside a block.
 #Indentation decides which inside which block
