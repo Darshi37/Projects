@@ -15,4 +15,4 @@ while value > 0:
     print(value,end="")
     if value > 0:
         print(",", end="")
-print("\nall numbers are printed")
+print("\nall numbers are printed sucessfully")
